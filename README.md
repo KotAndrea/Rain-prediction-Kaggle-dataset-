@@ -17,11 +17,11 @@ Predict the binary target `RainTomorrow` (Yes/No) based on various weather featu
 ## Techniques Used
 
 - Data cleaning and imputation of missing values
-- Label encoding
+- Label encoding and target encoding
 - Handling outliers using IQR method
 - Feature engineering
 - Applying under and oversampling techniques for imbalanced sets
 - Model training using XGBClassifier
-- Hyperparameters tuning using GridSearch
+- Hyperparameter tuning using GridSearch
 - Evaluation using ROC curve
 
